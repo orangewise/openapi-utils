@@ -22,5 +22,8 @@
   "homepage": "https://github.com/orangewise/openapi-utils#readme",
   "devDependencies": {
     "tape": "^4.6.2"
+  },
+  "dependencies": {
+    "openapi-utils-path-for-uri": "0.0.2"
   }
 }
