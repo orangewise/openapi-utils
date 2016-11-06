@@ -1,0 +1,23 @@
+{
+  "name": "openapi-utils",
+  "version": "0.0.1",
+  "description": "openapi utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangewise/openapi-utils.git"
+  },
+  "keywords": [
+    "openapi",
+    "utils"
+  ],
+  "author": "Ronald Luitwieler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orangewise/openapi-utils/issues"
+  },
+  "homepage": "https://github.com/orangewise/openapi-utils#readme"
+}
