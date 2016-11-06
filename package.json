@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/orangewise/openapi-utils/issues"
   },
-  "homepage": "https://github.com/orangewise/openapi-utils#readme"
+  "homepage": "https://github.com/orangewise/openapi-utils#readme",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
 }
