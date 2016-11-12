@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "openapi-utils-param-to-schema": "0.0.6",
-    "openapi-utils-path-for-uri": "0.0.2"
+    "openapi-utils-path-for-uri": "0.0.4"
   }
 }
