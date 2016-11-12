@@ -1,6 +1,6 @@
 {
   "name": "openapi-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "openapi utils",
   "main": "index.js",
   "scripts": {
