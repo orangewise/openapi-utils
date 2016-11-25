@@ -4,7 +4,7 @@
   "description": "openapi utils",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/*.js"
+    "test": "standard && tape test/*.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/orangewise/openapi-utils#readme",
   "devDependencies": {
+    "standard": "^8.6.0",
     "tape": "^4.6.2"
   },
   "dependencies": {
