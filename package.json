@@ -25,7 +25,7 @@
     "tape": "^4.6.2"
   },
   "dependencies": {
-    "openapi-utils-param-to-schema": "0.0.7",
+    "openapi-utils-param-to-schema": "0.0.8",
     "openapi-utils-path-for-uri": "0.0.4"
   }
 }
